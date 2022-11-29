@@ -6,7 +6,7 @@
 
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
+  <img src="Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
